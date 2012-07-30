@@ -404,18 +404,18 @@ key PROG_RED       {
 	shift+alt:'|'
 }
 key PROG_GREEN     {
-	label:'<'
-	base:'<'
-	shift, capslock:'['
-	alt: '{'
-	shift+alt:'{'
+	label:'['
+	base:'['
+	shift, capslock:'{'
+	alt: '<'
+	shift+alt:'<'
 }
 key PROG_YELLOW    {
-	label:'>'
-	base:'>'
-	shift, capslock:']'
-	alt: '}'
-	shift+alt:'}'
+	label:']'
+	base:']'
+	shift, capslock:'}'
+	alt: '>'
+	shift+alt:'>'
 }
 key META_LEFT      {
 	label:'\uEF02'  
