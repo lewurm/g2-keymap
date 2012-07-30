@@ -283,9 +283,9 @@ key COMMA          {
 key PERIOD         {
 	label:'.'       
 	base:'.'       
-	shift, capslock:'.'       
-	alt: ':'       
-	shift+alt:':'       
+	shift, capslock:':'       
+	alt: '`'       
+	shift+alt:'`'       
 }
 key TAB            {
 	label:'\u0009'  
