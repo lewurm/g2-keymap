@@ -269,14 +269,14 @@ key Z              {
 key BUTTON_R2 {
 	label:'?'
 	base:'?'
-	shift, capslock:'?'
+	shift, capslock:'='
 	alt: '='
 	shift+alt: '='
 }
 key COMMA          {
 	label:','       
 	base:','       
-	shift, capslock:','       
+	shift, capslock:';'       
 	alt: ';'       
 	shift+alt:';'       
 }
@@ -367,7 +367,7 @@ key APOSTROPHE     {
 key SLASH          {
 	label:'/'       
 	base:'/'       
-	shift, capslock:'/'       
+	shift, capslock:'"'       
 	alt: '"'       
 	shift+alt:'"'       
 }
