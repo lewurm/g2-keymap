@@ -253,16 +253,16 @@ key X              {
 	shift+alt:'-'       
 }
 key Y              {
-	label:'Y'       
-	base:'y'       
-	shift, capslock:'Y'       
+	label:'Z'       
+	base:'z'       
+	shift, capslock:'Z'       
 	alt: '_'       
 	shift+alt:'_'       
 }
 key Z              {
-	label:'Z'       
-	base:'z'       
-	shift, capslock:'Z'       
+	label:'Y'       
+	base:'y'       
+	shift, capslock:'Y'       
 	alt: '6'       
 	shift+alt:'6'       
 }    
